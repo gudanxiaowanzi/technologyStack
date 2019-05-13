@@ -8,4 +8,4 @@
 [工厂模式](http://note.youdao.com/noteshare?id=6efd9d8f0e5b335bce83c2b3fe917768)
 
 ## map数据结构
-[工厂模式](http://git.muheda.com/muheda/wechat_health.git) codeRefactoring2.0分支 src/pages/exchange-lebei 优化
+[map映射](http://git.muheda.com/muheda/wechat_health.git) codeRefactoring2.0分支 src/pages/exchange-lebei 优化
